@@ -1,6 +1,7 @@
 # console-q-test
 
-First cd console-q
+First in Terminal:  cd console-q
+
 ## Build Setup
 
 ```bash
